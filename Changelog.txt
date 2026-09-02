@@ -4,6 +4,13 @@ LEGEND
 + New feature
 * Improvement/modification or bug fix
 
+== Change Log v20.7 ==
+   * New Patch Pattern
+   * Improve Windows Version Status	
+   * Change exe packer (WIN_XP compatibility :)
+   * Improve Chiptune Player
+   * Bug Fixes
+   * Build #1 CRC32 > df04b353
 
 == Change Log v20.6 ==
   * Improve Interface
